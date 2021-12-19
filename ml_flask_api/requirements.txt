@@ -1,0 +1,4 @@
+flask == 2.0.2
+scikit-learn == 0.24.2
+prometheus_flask_exporter == 0.18.6
+
